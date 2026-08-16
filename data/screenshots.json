@@ -2,5 +2,9 @@
  "https://github.com/dsh-market/dsh-market": [
   "https://raw.githubusercontent.com/dsh-market/dsh-market/main/assets/demo-en.png",
   "https://raw.githubusercontent.com/dsh-market/dsh-market/main/assets/themes-en.png"
+ ],
+ "https://github.com/zhtx2024/dsh-pdf": [
+  "https://raw.githubusercontent.com/zhtx2024/dsh-pdf/master/assets/screenshot-schematic.png",
+  "https://raw.githubusercontent.com/zhtx2024/dsh-pdf/master/assets/screenshot-power.png"
  ]
 }
